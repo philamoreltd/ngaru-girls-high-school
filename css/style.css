@@ -360,3 +360,6 @@ div{
     ul li {
         margin-left: 20px;
     }
+    table{
+        max-width: 100%;
+    }
